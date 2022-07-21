@@ -30,6 +30,19 @@ section{
 	width : auto;
 	height : 30vh;
 }
+.onebox{
+	display:flex;  
+}
+.onebox-left{
+	
+	width : 70%;
+}
+.onebox-right{
+	word-break;
+	color: #95afba;
+	text-align:right;
+	width : 30%;
+}
 a{
 	font-size: 1.5em;
 	margin:10px;
