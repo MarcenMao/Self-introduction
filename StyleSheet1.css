@@ -31,17 +31,20 @@ section{
 	height : 30vh;
 }
 .onebox{
-	display:flex;  
+	display:flex; 
+	border-style:solid;
 }
 .onebox-left{
 	
 	width : 70%;
+	border-style:solid;
 }
 .onebox-right{
 	word-break;
 	color: #95afba;
 	text-align:right;
 	width : 30%;
+	border-style:solid;
 }
 a{
 	font-size: 1.5em;
