@@ -31,6 +31,7 @@ section{
 	height : 30vh;
 }
 .onebox{
+	display:flex;
 	/*border-style:solid;*/
 }
 .onebox-title{
@@ -43,6 +44,16 @@ section{
 }
 .icon:hover{
 	 opacity : 0.5 ;
+}
+.hastage{
+	font-size: 0.7em;
+	display:flex;
+	border: solid 5px ;
+	border-radius :50px;
+	width : 5vw;
+	margin-right  : 2vw;
+	padding : 15px;
+	justify-content: center;   
 }
 a{
 	font-size: 1.5em;
